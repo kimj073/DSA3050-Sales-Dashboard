@@ -1,2 +1,25 @@
-# DSA3050-Sales-Dashboard
-Power BI Dashboard for DSA 3050 Assignment 1 - Supermarket Sales Analysis
+# DSA 3050 - Supermarket Sales Dashboard
+
+## Assignment 2: Introduction to Power BI Dashboards
+
+## Project Overview
+Sales performance analysis across branches and product categories for a supermarket.
+
+## Dashboard Preview
+![DSA3050 AGGIGN2 DASHBOARD](Sales Dashboard Screenshot.png)
+
+## Key Insights
+
+1. **Branch with highest sales**: **Nairobi, valued at 94K**
+2. **Category with highest sales**: **Electronics category values at 137K**
+3. **Total Sales**: **318K**
+
+## Files Included
+- `DSA3050 AGGIGN2 DASHBOARD` → Power BI report file
+- `Sales Dashboard Screenshot.png` → Final dashboard screenshot
+
+## Tools Used
+- Microsoft Power BI Desktop
+- Microsoft Excel (Dataset)
+
+---
