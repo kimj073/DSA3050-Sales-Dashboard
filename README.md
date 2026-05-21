@@ -6,7 +6,7 @@
 Sales performance analysis across branches and product categories for a supermarket.
 
 ## Dashboard Preview
-![DSA3050 AGGIGN2 DASHBOARD](Sales Dashboard Screenshot.png)
+![DSA3050 AGGIGN2 DASHBOARD](Sales_Dashboard_Screenshot.png)
 
 ## Key Insights
 
