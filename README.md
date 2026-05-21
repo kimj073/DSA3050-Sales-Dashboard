@@ -2,6 +2,9 @@
 
 ## Assignment 2: Introduction to Power BI Dashboards
 
+Author: Jessica Kimani
+---------------------------------------------------------------------------------------
+
 ## Project Overview
 Sales performance analysis across branches and product categories for a supermarket.
 
